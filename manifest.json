@@ -1,27 +1,12 @@
 {
   "name": "ABI Flow",
-  "short_name": "ABI Flow",
-  "description": "63 interaktive Lern-Apps fürs Abitur — von GZ-AI.-Stacks",
-  "start_url": "/index.html",
-  "scope": "/",
+  "short_name": "ABI-Flow",
+  "start_url": "./",
   "display": "standalone",
-  "orientation": "portrait-primary",
-  "background_color": "#0a0a14",
-  "theme_color": "#818cf8",
-  "lang": "de",
+  "background_color": "#06080a",
+  "theme_color": "#10b981",
   "icons": [
-    {
-      "src": "icons/icon-192.svg",
-      "sizes": "192x192",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-512.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ],
-  "categories": ["education"]
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
 }
